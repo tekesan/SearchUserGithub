@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchUserTiketCom</string>
+    <string name="user_name">Enter Github username</string>
+    <string name="search">Search</string>
+</resources>
